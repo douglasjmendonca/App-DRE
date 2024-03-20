@@ -1,0 +1,9 @@
+streamlit 
+tempfile
+io
+pandas
+numpy
+os
+pathlib
+dotenv 
+psycopg2-binary
